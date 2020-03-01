@@ -1,0 +1,4 @@
+{
+    "connection_string": "mongodb+srv://quizking:16kLAdvJ8cU3jzWM@cluster0-xplrg.mongodb.net/quizking?retryWrites=true&w=majority",
+    "database": "restro"
+}
